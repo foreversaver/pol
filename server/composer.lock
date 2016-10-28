@@ -1,0 +1,58 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "e928b2f31bccb0f894c80c8b5335fece",
+    "content-hash": "8ccb32b3393cb106e2a63cfb301fa831",
+    "packages": [
+        {
+            "name": "alash3al/horus",
+            "version": "v13",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/alash3al/Horus.git",
+                "reference": "00e6514845fc7a7275ffe8f3c18d7d3f7f38a511"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/alash3al/Horus/zipball/00e6514845fc7a7275ffe8f3c18d7d3f7f38a511",
+                "reference": "00e6514845fc7a7275ffe8f3c18d7d3f7f38a511",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4"
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Mohammed Al Ashaal",
+                    "email": "m7medalash3al@gmail.com"
+                }
+            ],
+            "description": "A micro php 5 framework",
+            "keywords": [
+                "framework",
+                "psr",
+                "request",
+                "response",
+                "router",
+                "standalone"
+            ],
+            "time": "2015-08-14 13:13:39"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
